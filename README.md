@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td align="left" style="padding=0;">
-<a href="https://github.com/VinnDev">
+<a href="https://vinn.my.id">
 <img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=VinnDev&color=006bff" alt="GitHub Profile views" />
 </a>
 </td>
@@ -19,8 +19,8 @@ A Human from Earth, and just call me as Vinn.
 <table>
 <tr>
 <td align="left" style="padding=0;">
-<a href="https://discord.com/users/561170896480501790">
-    <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/561170896480501790?bg=transparent&idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Discord Profile: Vinn#6779"/>
+<a href="https://vinn.my.id">
+    <img align="center" style="padding=0;" src="https://lanyard.cnrad.dev/api/561170896480501790?bg=transparent&idleMessage=I%20like%20to%20do%20something%20before%20others%20do%20it" alt="Discord: @vinnofficial"/>
 </a>
 </td>
 </tr>
