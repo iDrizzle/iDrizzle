@@ -4,7 +4,7 @@
 <tr>
 <td align="left" style="padding=0;">
 <a href="https://github.com/VinnDev">
-<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=VinnDev&color=84ADEF" alt="GitHub Profile views" />
+<img align="center" style="padding=0;" src="https://komarev.com/ghpvc/?username=VinnDev&color=006bff" alt="GitHub Profile views" />
 </a>
 </td>
 </tr>
