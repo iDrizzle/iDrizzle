@@ -1,8 +1,10 @@
 <h1 align="left">Hi 👋🏻</h1>
 
-<p align="left">Welcome to My Profile!</p>
-<br/>
+<p align="left"><i>Welcome to My Profile!</i></p>
+
 <p align="left"><i><b>I'm Levin</b> — Fullstack Developer with a passion for scalable systems.</i></p>
+
+<hr/>
 
 <table>
 <tr>
