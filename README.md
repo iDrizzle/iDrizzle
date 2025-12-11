@@ -20,7 +20,7 @@
 <tr>
 <td align="left" style="padding=0;">
 <a href="#">
-    <img align="center" style="padding=0;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMrlvn&theme=tokyonight" alt="Github: iMrlvn"/>
+    <img align="center" style="padding=0;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iDrizzle&theme=tokyonight" alt="Github: iDrizzle"/>
 </a>
 </td>
 </tr>
